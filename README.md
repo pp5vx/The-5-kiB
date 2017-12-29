@@ -1,16 +1,19 @@
-# The-5-kiB
-An "Accu-Keyer" ( WB4VVF ) Clone for the Arduino (or ATTiny45 or 85)
+This is an "Accu-Keyer" (WB4VVF) Clone for the Arduino (or ATTiny45 or 85)
 
-* Added Weight Control, and corrected some minor bugs
+* Source: (c)2009 - KC4IFB (Richard) _in_ QEX (ARRL) for Sep/Oct 2009
 
-No "misteries" here, perfect for a rainny weekend !
+* I added _Weight Control_, _reformatted_ source, and corrected some _minor_ bugs
 
-But, this work is licensed, as follows:
+There is no **_misteries_** here, it's perfect for an almost **rainy weekend** !
 
-* For World: "CC-BY-NC 3.0"
+(and works on first attempt, if you **do it carefully** when wiring the pins... LOL)
 
-* In Brazil (_**only**_):  (c)2017 - PP5VX
+But, this work is **_licensed_**, as follows:
 
-Enjoy !
+* For the whole World: **CC-BY-NC 3.0**
+
+* And _except_ in Brazil, as: **(c)2017 - PP5VX**
+
+So... Enjoy !
 
 73/DX/SYOS de PP5VX (Bone)
