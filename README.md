@@ -10,9 +10,9 @@ There is no **_misteries_** here, it's perfect for an almost **rainy weekend** !
 
 But, this work is **_licensed_**, as follows:
 
-* For the whole World: **CC-BY-NC 3.0**
+* Licensed in World (except in Brazil), as: **CC BY-SA-NC 3.0**
 
-* And _except_ in Brazil, as: **(c)2017 - PP5VX**
+* Licensed **only** in Brazil, as: **©2017 - PP5VX** ( _Todos os Direitos Reservados_ )
 
 So... Enjoy !
 
