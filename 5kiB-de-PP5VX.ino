@@ -8,7 +8,7 @@
 // | This work is licensed in World, as: "CC-BY-NC-3.0"       |
 // | And is licensed **only** in Brazil, as: (c)2017 - PP5VX  |
 // o----------------------------------------------------------o
-// | Portions: (c)K1EL - (c)KC4IFB - (c)KC2WAG                |
+// | Portions: (c)K1EL - (c)KC4IFB - (c)KC2WAG (BA5AG)        |
 // o----------------------------------------------------------o
 //
 // o----------------------------------------------------------o
@@ -33,7 +33,7 @@
 // o----------------------------------------------------------o
 // |  A0 | Speed Pot:  100k ( LIN )                           |
 // |  A1 | Tone Pot:   100k ( LIN )                           |
-// |  A0 | Weight Pot: 100k ( LIN )                           |
+// |  A2 | Weight Pot: 100k ( LIN )                           |
 // |   8 | Left  Paddle Input: Dits ------- on "Tip"          |
 // |   9 | Right Paddle Input: Dashes ----- on "Ring"         |
 // |  11 | TX Keying: 2N7000 or 2N7002 ( classic )            |
